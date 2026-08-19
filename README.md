@@ -34,7 +34,8 @@ Any new additions are welcome (in the form of pull requests or issues)!
 - Model: https://huggingface.co/SaranaAbidueva/nllb-200-bxr-ru 
 
 ## Chokri
-- Interface: http://knbliss-chokri-english-translator.hf.space
+- Model: https://huggingface.co/knbliss/chokri-nllb-finetuned
+- Interface: https://knbliss-chokri-english-translator.hf.space
 - Code: https://github.com/knbliss/chokri-english-translator
 
 ##  Circassian (Kabardian)
